@@ -29,4 +29,4 @@ alter table student
 drop grade;
 
 
-SELECT* FROM STUDENT
+SELECT* FROM STUDENT;
